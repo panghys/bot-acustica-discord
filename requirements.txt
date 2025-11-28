@@ -1,0 +1,8 @@
+discord.py
+pydub
+gtts
+python-dotenv
+requests
+pyttsx3
+numpy
+matplotlib
